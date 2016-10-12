@@ -1,12 +1,12 @@
 body 
 {
-    background-color: powderblue;
+    background-color: #f0f8ff;
 	
 }
 
 p 
 {
 	color: green;
-	font-size: 50px;
+	font-size: 20px;
 	text-align: center;
 }
